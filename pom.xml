@@ -12,6 +12,7 @@
     <artifactId>mumapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mumapp</name>
+    <url>https://github.com/anaJurado/mumapp</url>
     <description>DAW - MuMApp</description>
 
     <properties>
