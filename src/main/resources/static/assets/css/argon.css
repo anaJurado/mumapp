@@ -873,8 +873,8 @@ pre code
 {
     display: flex;
 
-    margin-right: -15px;
-    margin-left: -15px; 
+    /* margin-right: -15px; */
+    /* margin-left: -15px; */
 
     flex-wrap: wrap;
 }
@@ -19203,8 +19203,8 @@ a.btn-icon-only
     .main-content .container-lg,
     .main-content .container-xl
     {
-        padding-right: 30px !important; 
-        padding-left: 30px !important;
+        padding-right: 60px !important;
+        padding-left: 60px !important;
     }
 }
 
